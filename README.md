@@ -21,9 +21,10 @@ Open Project Vs Code
 
 Project  Feature:
 
-Everu unique user can
+Every unique user can
 
-#Add Contact Details  # Search Details
+
+# Add Contact Details  # Search Details
 
 # Delete # Update Contact
 
